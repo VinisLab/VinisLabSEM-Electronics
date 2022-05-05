@@ -6,3 +6,5 @@ ProjectPath=..\Altium Libraries\VinisLabAltiumLibraries\VinisLab.LibPkg
 ProjectPath=038\038.PrjPcb
 [Project3]
 ProjectPath=StigmatorDriver\StigmatorDriver.PrjPcb
+[Project4]
+ProjectPath=ScanningCaptureCard\ScanningCaptureCard.PrjPcb

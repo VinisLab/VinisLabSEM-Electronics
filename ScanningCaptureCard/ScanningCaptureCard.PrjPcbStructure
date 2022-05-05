@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=ADC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=DAC.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=POWER.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=VREF.SchDoc|SheetNumber=4
