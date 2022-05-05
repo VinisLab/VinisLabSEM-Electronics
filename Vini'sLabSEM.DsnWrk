@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\Altium Libraries\VinisLabAltiumLibraries\VinisLab.LibPkg
+[Project2]
+ProjectPath=038\038.PrjPcb
+[Project3]
+ProjectPath=StigmatorDriver\StigmatorDriver.PrjPcb
