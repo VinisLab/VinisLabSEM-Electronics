@@ -2,3 +2,6 @@
 *.SchDocPreview
 *.Zip
 *.LOG
+CathodeControl/Simulation/CathodeControl.sdf
+*.nsx
+*.simcfg

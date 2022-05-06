@@ -8,3 +8,5 @@ ProjectPath=038\038.PrjPcb
 ProjectPath=StigmatorDriver\StigmatorDriver.PrjPcb
 [Project4]
 ProjectPath=ScanningCaptureCard\ScanningCaptureCard.PrjPcb
+[Project5]
+ProjectPath=CathodeControl\CathodeControl.PrjPcb
